@@ -1,0 +1,4 @@
+nome: string
+print("Olá mundo!")
+print("Oi! coomo é seu nome?")
+input(nome)
